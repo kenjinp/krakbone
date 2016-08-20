@@ -4,6 +4,7 @@ Included is most everything you would need to create a web-app prototype.
 It is rendered with dust and backbone on the front-end to create easily understandable
 web-views, and is powered by kraken's express framework for an easily configurable
 middle/meddle-ware backend.
+
 ## Features
  - Heroku-ready
  - Dust JS templating
@@ -11,10 +12,13 @@ middle/meddle-ware backend.
  - Express via kraken
  - Passport / Redis-sessions
  - Sane web-views via Backbone-Marionette
+
 ## Use
- - NPM INSTALL
- - BOWER INSTALL
- - GRUNT SERVE
+```
+npm install
+bower install
+grunt serve
+```
 
 ## Contributions
  - logger, error handler, utilities and mongo client by [TarSzator](https://github.com/TarSzator)
