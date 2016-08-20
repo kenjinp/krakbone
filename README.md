@@ -1,4 +1,4 @@
-# Krakebone Boilerplate
+# Krakbone Boilerplate
 Krakbone is a template for quickly sketching single-page web-apps.
 Included is most everything you would need to create a web-app prototype.
 It is rendered with dust and backbone on the front-end to create easily understandable
